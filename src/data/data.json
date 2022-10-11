@@ -20,49 +20,49 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Billtrick POS",
+      "largeImage": "https://billtrick.com",
+      "smallImage": "img/portfolio/billtrickpos.JPG"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "BillTrick Shopping cart",
+      "largeImage": "https://billtrick.com/products",
+      "smallImage": "img/portfolio/billtrickcart.JPG"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "SDA Social Media",
+      "largeImage": "https://social.kampalacentraladventist.org",
+      "smallImage": "img/portfolio/sdasocial.JPG"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Kampala Central SDA Church Offertory",
+      "largeImage": "https://kampalacentraladventist.org",
+      "smallImage": "img/portfolio/kccwebsite.JPG"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Souce Expense Manager",
+      "largeImage": "https://souce.io",
+      "smallImage": "img/portfolio/souce.JPG"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Ecicuncu company Limited",
+      "largeImage": "https://ecicuncu.com",
+      "smallImage": "img/portfolio/ecicuncu.JPG"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Jehcards",
+      "largeImage": "https://jehcards.azurewebsites.net/",
+      "smallImage": "img/portfolio/jehcards.JPG"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
+      "title": "E&A Tours and Travel Limited",
+      "largeImage": "https://eatours.org",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Amarin Financial Group",
+      "largeImage": "https://www.amarinfinancial.com/",
+      "smallImage": "img/portfolio/amarin.JPG"
     }
   ],
   "Services": [
@@ -99,56 +99,71 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://www.seekpng.com/png/detail/143-1435868_headshot-silhouette-person-placeholder.png",
+      "text": "\"They took on the responsibility of consistently updating a very detailed project management application and were dedicated to creating the best outcome.\"",
+      "name": "Laura Nambiike"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://www.seekpng.com/png/detail/143-1435868_headshot-silhouette-person-placeholder.png",
+      "text": "\"All project-related interactions and project management were conducted in a highly professional manner from the outset, and the quality of the code was consistently high. The team at Doyern Concepts was able to enhance the current service architecture, add crucial functionality to our new site and warehouse management system, and swiftly address troubleshooting requests for both the earlier and the most recent iterations of our service.\"",
+      "name": "Apoyo Samuel"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "https://www.seekpng.com/png/detail/143-1435868_headshot-silhouette-person-placeholder.png",
+      "text": "\"They provided some excellent advice, therefore I was grateful that the project's cost ended up being lower than we anticipated. It's a pleasure to work with them.\"",
+      "name": "Anonymous customer"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://www.seekpng.com/png/detail/143-1435868_headshot-silhouette-person-placeholder.png",
+      "text": "\"For some reason, we were searching for a team that could be explicit in its proposal, flexible with revisions, and on schedule. The experts at Doyern satisfied all of our criteria. They were able to correct every error committed by the prior team and produce a top-notch online solution within their set budget.\"",
+      "name": "Emmanuel Kamukama"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"To choose a partner, we conducted a significant tender. Doyern Concepts team demonstrated a desire to delve deeply into our project even during the tender stage and offered an architectural solution we liked. Top Ugandan and Kenyan agencies were among the other bidders, but they displayed far less enthusiasm and sent official business bids with costs for their services. As a result, we began using Doyern concepts.\"",
+      "name": "John Brownson"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "https://www.seekpng.com/png/detail/143-1435868_headshot-silhouette-person-placeholder.png",
+      "text": "\"We would like to express our gratitude to Doyern for the superb technical support they offered to our company. It should be mentioned that although we began working on our project with another team, neither the communication nor the development process as a whole was open or timely. The end product was of poor quality as a result.\"",
+      "name": "Anonymous customer"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/james.jpg",
+      "name": "James Najuna",
+      "job": "Lead Full stack Developer"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "https://www.seekpng.com/png/detail/143-1435868_headshot-silhouette-person-placeholder.png",
+      "name": "Ddumba Collins",
+      "job": "Senior .NET Developer - FullStack"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/mercy.jpg",
+      "name": "Kwikiriza Mercy",
+      "job": "Administrator"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "img": "https://www.seekpng.com/png/detail/143-1435868_headshot-silhouette-person-placeholder.png",
+      "name": "Beneddict Okello",
       "job": "Project Manager"
+    },
+    {
+      "img": "img/team/eric.jpg",
+      "name": "Namanya Eric",
+      "job": "Scrum Manager"
+    },
+    {
+      "img": "img/team/edward.jpg",
+      "name": "Sagini Edward",
+      "job": "Head Commercial"
+    },
+    {
+      "img": "img/team/innocent.jpg",
+      "name": "Innocent Makhoha",
+      "job": "Front End Developer"
     }
   ],
   "Contact": {
