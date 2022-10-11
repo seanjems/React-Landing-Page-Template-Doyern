@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are Doyern Concepts Limited",
+    "paragraph": "Doyern Concepts Ltd is mainly a software and computer systems company that has built a strong reputation for delivering quality services in time and at a fairly competitive price. Our ultimate goal is to be leaders in providing custom software solutions across Africa and the world at Large."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Overtime, we have acquired vast and sufficient experience to successfully undertake any software development project in the fields of Fintech, AI, cloud services, micro-services and retail automation technology. Our employees are skilled and are always further trained to ensure that we offer the best service to our clients. The company has acquired extensive knowledge in the technology industry and we are established major players in Uganda. Our commitment to research, innovation and excellence greatly results into successful completion of our projects for our clientele. We always develop a cordial relationship with our clients to achieve/ implement their vision and dreams while solving any challenges that may accrue during the project.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "We’ve been there and done it for over 10 years",
+      "We are Results focussed",
+      "Energetic and time conscious",
+      "We understand modern and latest technology"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "We dont cost the earth, arm or leg",
+      "We are professionals at what we do",
+      "We take our work seriously",
+      "Easy to work with with Unlimited Support"
     ]
   },
   "Gallery": [
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Mobile & Web Development",
+      "text": "We build expertly constructed websites, native mobile applications, and brand experiences that captivate millions of users through strategy, design, and technology."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "UI/UX Design",
+      "text": "Our UX/UI designers create stunning, user-friendly designs for business systems, web portals, and mobile applications with an emphasis on exceeding customer expectations. We provide front-end development approaches that please users and enhance the image of your business."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Cloud Computing",
+      "text": "By enhancing company agility, cutting costs, and simplifying IT, our cloud computing services assist enterprises in fostering innovation and business transformation."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "eCommerce",
+      "text": "Adopting a cutting-edge tech stack will help you take the lead in the eCommerce industry. Market-leading eCommerce applications will be designed, developed, implemented, and maintained for you by our best engineers."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Artificial Intelligence (AI) & Machine Learning",
+      "text": "With the help of our AI and machine learning technologies, you may grow your business and find new commercial potential. We will provide unique AI solutions tailored to your projects' particular requirements."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Process Automation",
+      "text": "Automation is the way of the future for business. You will be assisted in locating and taking advantage of all automation opportunities by our accomplished solution architects and automation engineers."
     }
   ],
   "Testimonials": [
@@ -152,33 +152,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "7th Comment end  Floor Course View Towers, Yusuf Lule Road Kampala, Uganda.",
+    "phone": "+256 775 742548",
+    "email": "info@doyernconcepts.com",
+    "facebook": "facebook.com/eng.jemwa",
+    "twitter": "twitter.com/nerjuner",
+    "youtube": "https://www.youtube.com/channel/UCu4pJXVFi2AeNZnYhSXoBSA"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "High-quality Code",
+      "text": "In all the cases  the code will be delivered on time, have the least bugs possible and be written clearly. Our code qualityis always guaranteed by automated tests and peer reviews."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Agile Approach",
+      "text": "Our softwares are developed through a collaborative effort of a self-organized and cross-functional team together with its clients"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Full-stack teams",
+      "text": "We utilize all .NET features to deliver robust backends and most Javascript Frameowrk to create interactive UIs. Our solutions Solve all problems mobile, desktop, broswers or servers"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Flexibility",
+      "text": "With changing project demands, we are always on top of things. We are always changing technologies, adapting the approach and ready to listen to client demands."
     }
   ]
 }
